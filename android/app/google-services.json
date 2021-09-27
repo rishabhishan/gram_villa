@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "481452578616",
+    "project_id": "gramvilla-ab644",
+    "storage_bucket": "gramvilla-ab644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481452578616:android:16ce6e825752777d0713cd",
+        "android_client_info": {
+          "package_name": "com.rishabhishan.gram_villa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481452578616-t7ldm84pv13g4tht2i064k40ro1cms0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rishabhishan.gram_villa",
+            "certificate_hash": "ee9dc95637fa10bfd1f91fec8c07e69064cb514f"
+          }
+        },
+        {
+          "client_id": "481452578616-v3qlm8cgqsuoohj7s0tu0o8hos5jik82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtc_rpbPh1ry_ZJFFEth_iCiuBIRVk6YM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481452578616-v3qlm8cgqsuoohj7s0tu0o8hos5jik82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
